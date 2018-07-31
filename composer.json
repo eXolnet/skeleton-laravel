@@ -3,7 +3,7 @@
     "description": ":package_description",
     "keywords": [
         "exolnet",
-        "laravel"
+        "laravel",
         ":package_name"
     ],
     "homepage": "https://github.com/eXolnet/:package_name",
