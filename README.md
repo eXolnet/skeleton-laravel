@@ -17,6 +17,12 @@ Require this package with composer:
 composer require exolnet/:package_name
 ```
 
+If you don't use package auto-discovery, add the service provider to the ``providers`` array in `config/app.php`:
+
+```
+Exolnet\Skeleton\SkeletonServiceProvider::class
+```
+
 ## Usage
 
 Explain how to use your package.
