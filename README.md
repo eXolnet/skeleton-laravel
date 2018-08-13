@@ -23,6 +23,12 @@ If you don't use package auto-discovery, add the service provider to the ``provi
 Exolnet\Skeleton\SkeletonServiceProvider::class
 ```
 
+And the facade to the ``facades`` array in `config/app.php`: 
+
+```
+'Skeleton' => Exolnet\Skeleton\SkeletonFacade::class
+```
+
 ## Usage
 
 Explain how to use your package.
