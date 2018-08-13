@@ -5,7 +5,7 @@ namespace Exolnet\Skeleton\Tests\Integration;
 use Exolnet\Skeleton\SkeletonServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
-class TestCase extends Orchestra
+abstract class TestCase extends Orchestra
 {
     /**
      * @param \Illuminate\Foundation\Application $app
