@@ -11,6 +11,7 @@
     "authors": [
         {
             "name": ":author_name",
+            "email": ":author_email",
             "homepage": "https://www.exolnet.com",
             "role": "Developer"
         }
