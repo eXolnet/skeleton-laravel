@@ -23,7 +23,7 @@ If you don't use package auto-discovery, add the service provider to the ``provi
 Exolnet\Skeleton\SkeletonServiceProvider::class
 ```
 
-And the facade to the ``facades`` array in `config/app.php`: 
+And the facade to the ``facades`` array in `config/app.php`:
 
 ```
 'Skeleton' => Exolnet\Skeleton\SkeletonFacade::class
@@ -56,5 +56,5 @@ If you discover any security related issues, please email security@exolnet.com i
 
 ## License
 
-This code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/). 
+This code is licensed under the [MIT license](http://choosealicense.com/licenses/mit/).
 Please see the [license file](LICENSE) for more information.
