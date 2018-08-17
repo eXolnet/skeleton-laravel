@@ -22,7 +22,7 @@ We accept contributions via Pull Requests on [Github](https://github.com/eXolnet
 
 ## Running Tests
 
-``` bash
+```bash
 $ composer test
 ```
 

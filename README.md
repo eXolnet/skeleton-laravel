@@ -13,19 +13,19 @@
 
 Require this package with composer:
 
-```
+```bash
 composer require exolnet/:package_name
 ```
 
 If you don't use package auto-discovery, add the service provider to the ``providers`` array in `config/app.php`:
 
-```
+```php
 Exolnet\Skeleton\SkeletonServiceProvider::class
 ```
 
 And the facade to the ``facades`` array in `config/app.php`:
 
-```
+```php
 'Skeleton' => Exolnet\Skeleton\SkeletonFacade::class
 ```
 
@@ -37,7 +37,7 @@ Explain how to use your package.
 
 To run the phpUnit tests, please use:
 
-``` bash
+```bash
 composer test
 ```
 
