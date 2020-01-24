@@ -12,7 +12,7 @@ abstract class TestCase extends Orchestra
      *
      * @return array
      */
-    protected function getPackageProviders($app)
+    protected function getPackageProviders($app): array
     {
         return [
             SkeletonServiceProvider::class,

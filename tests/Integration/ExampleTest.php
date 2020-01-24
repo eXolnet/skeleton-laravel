@@ -4,7 +4,10 @@ namespace Exolnet\Skeleton\Tests\Integration;
 
 class ExampleTest extends TestCase
 {
-    public function testBasic()
+    /**
+     * @return void
+     */
+    public function testBasic(): void
     {
         $this->assertTrue(true);
     }

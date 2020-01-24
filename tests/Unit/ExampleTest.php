@@ -4,7 +4,10 @@ namespace Exolnet\Skeleton\Tests\Unit;
 
 class ExampleTest extends UnitTest
 {
-    public function testBasic()
+    /**
+     * @return void
+     */
+    public function testBasic(): void
     {
         $this->assertTrue(true);
     }
