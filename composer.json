@@ -50,7 +50,7 @@
                 "Exolnet\\Skeleton\\SkeletonServiceProvider"
             ],
             "aliases": {
-                "Skeleton": "Exolnet\\Skeleton\\SkeletonFacade"
+                "Skeleton": "Exolnet\\Skeleton\\Facades\\Skeleton"
             }
         }
     }
