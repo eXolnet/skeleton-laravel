@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/github/workflow/status/eXolnet/:package_name/tests?label=tests&style=flat-square)](https://github.com/eXolnet/:package_name/actions?query=workflow%3Atests)
 [![Total Downloads](https://img.shields.io/packagist/dt/eXolnet/:package_name.svg?style=flat-square)](https://packagist.org/packages/eXolnet/:package_name)
 
-**Note:** Replace ```:author_name``` ```:author_username``` ```:author_email``` ```:package_name``` ```:package_description``` with their correct values, then delete this line.
+**Note:** Replace ```:author_name``` ```:author_username``` ```:author_email``` ```:package_name``` ```:package_description``` ```Skeleton``` with their correct values, then delete this line.
 
 :package_description
 
