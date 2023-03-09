@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/eXolnet/:package_name/v/stable?format=flat-square)](https://packagist.org/packages/eXolnet/:package_name)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/eXolnet/:package_name/tests?label=tests&style=flat-square)](https://github.com/eXolnet/:package_name/actions?query=workflow%3Atests)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/eXolnet/:package_name/tests.yml?label=tests&style=flat-square)](https://github.com/eXolnet/:package_name/actions?query=workflow%3Atests)
 [![Total Downloads](https://img.shields.io/packagist/dt/eXolnet/:package_name.svg?style=flat-square)](https://packagist.org/packages/eXolnet/:package_name)
 
 **Note:** Replace ```:author_name``` ```:author_username``` ```:author_email``` ```:package_name``` ```:package_description``` ```Skeleton``` with their correct values, then delete this line.
