@@ -2,7 +2,7 @@
 
 namespace Exolnet\Skeleton\Tests\Unit;
 
-class ExampleTest extends UnitTest
+class ExampleTestCase extends UnitTestCase
 {
     /**
      * @return void
