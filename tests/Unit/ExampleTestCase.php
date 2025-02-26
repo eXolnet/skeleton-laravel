@@ -6,7 +6,6 @@ class ExampleTestCase extends UnitTestCase
 {
     /**
      * @return void
-     * @test
      */
     public function testBasic(): void
     {
